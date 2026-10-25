@@ -1,3 +1,8 @@
+Copyright © 2026 Lewis James Seals Jr. All rights reserved.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT.
 # N-DX — Neural Dynamics Engine (VST3)
 
 **Compression that listens.** A hybrid compressor: a deterministic, automatable DSP core steered by a *bounded* neural/intent controller.
